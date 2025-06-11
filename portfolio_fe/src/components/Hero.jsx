@@ -95,7 +95,7 @@ const Hero = () => {
               transition-all duration-300 shadow-lg"
       >
         <img
-          src="/image/image.png"
+          src="/image/avatar2.png"
           alt="avatar"
           className="w-full h-full rounded-full object-cover"
         />

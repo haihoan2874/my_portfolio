@@ -12,7 +12,7 @@ const About = () => {
               transition-all duration-300 shadow-lg"
       >
         <img
-          src="/image/image.png"
+          src="/image/avatar1.png"
           alt="avatar"
           className="w-full h-full rounded-full object-cover"
         />
