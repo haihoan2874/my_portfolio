@@ -6,14 +6,14 @@ const projects = [
     description: "Trang web cá nhân giới thiệu bản thân, kỹ năng và dự án.",
     tech: ["React", "TailwindCSS", "EmailJS"],
     link: "https://your-portfolio-link.com",
-    img: "/image/avatar1.png",
+    img: "/avatar1.png",
   },
   {
     title: "Todo App",
     description: "Ứng dụng quản lý công việc đơn giản với React.",
     tech: ["React", "CSS"],
     link: "https://your-todo-link.com",
-    img: "/image/avatar2.png",
+    img: "/avatar2.png",
   },
   // Thêm các dự án khác ở đây, nhớ dùng 'img'
 ];
