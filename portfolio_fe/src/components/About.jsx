@@ -1,4 +1,5 @@
 import React from "react";
+import avatar from "../assets/avatar1.png";
 
 const About = () => {
   return (
@@ -12,7 +13,7 @@ const About = () => {
               transition-all duration-300 shadow-lg"
       >
         <img
-          src="/avatar1.png"
+          src={avatar}
           alt="avatar"
           className="w-full h-full rounded-full object-cover"
         />

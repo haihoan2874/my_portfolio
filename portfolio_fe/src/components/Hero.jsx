@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { FaFacebook, FaGithub, FaInstagram } from "react-icons/fa";
 import { Typewriter } from "react-simple-typewriter";
+import avatar from "../assets/avatar2.png";
 
 const Hero = () => {
   const [show, setShow] = useState(false);
@@ -92,7 +93,7 @@ const Hero = () => {
               transition-all duration-300 shadow-lg"
       >
         <img
-          src="/avatar2.png"
+          src={avatar}
           alt="avatar"
           className="w-full h-full rounded-full object-cover"
         />
